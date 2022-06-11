@@ -1,0 +1,8 @@
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\bin\Debug\trocoNotasMoedas.exe.config
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\bin\Debug\trocoNotasMoedas.exe
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\bin\Debug\trocoNotasMoedas.pdb
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\obj\Debug\trocoNotasMoedas.csproj.AssemblyReference.cache
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\obj\Debug\trocoNotasMoedas.csproj.SuggestedBindingRedirects.cache
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\obj\Debug\trocoNotasMoedas.csproj.CoreCompileInputs.cache
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\obj\Debug\trocoNotasMoedas.exe
+C:\curso\trocoNotasMoedas\trocoNotasMoedas\obj\Debug\trocoNotasMoedas.pdb
